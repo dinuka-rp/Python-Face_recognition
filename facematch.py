@@ -3,7 +3,7 @@ import face_recognition
 img_of_bill = face_recognition.load_image_file('./img/known/Bill_Gates.jpg')
 bill_face_encoding = face_recognition.face_encodings(img_of_bill)[0]        #face_encodings return an array. Only the first item of the array is considered
 
-unkown_img = face_recognition.load_image_file('./img/unknown/steve1.jpg')
+unkown_img = face_recognition.load_image_file('./img/unknown/billyoung.jpg')
 unkown_encoding = face_recognition.face_encodings(unkown_img)[0]        #face_encodings return an array. Only the first item of the array is considered
 
 #comparing the 2 faces in the 2 images
