@@ -8,6 +8,7 @@ unkown_encoding = face_recognition.face_encodings(unkown_img)[0]        #face_en
 
 #comparing the 2 faces in the 2 images
 results = face_recognition.compare_faces([bill_face_encoding],unkown_encoding)    #comparing one encoding each
+                                        #multiple encodings of known images (array) can be used to compare one unknown image
 
 if results[0]:
     print("This is Bill Gates")
