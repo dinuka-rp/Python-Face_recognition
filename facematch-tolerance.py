@@ -1,3 +1,5 @@
+#This program compares an unkown face with a known face and identifies the person in the unknown image, with controlled tolerance (strictness)
+
 import face_recognition
 
 img_of_bill = face_recognition.load_image_file('./img/known/Bill_Gates.jpg')

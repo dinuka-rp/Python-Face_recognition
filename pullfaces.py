@@ -1,3 +1,5 @@
+# This program identifies multiple faces in an image an displays them
+
 from PIL import Image       #implementing the Pillow library (Imaging library)
 import face_recognition
 

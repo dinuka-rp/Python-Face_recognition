@@ -1,3 +1,5 @@
+#This program identifies the cordinates of faces in an image with multiple people
+
 import face_recognition
 
 image = face_recognition.load_image_file('./img/groups/team.jpg')
