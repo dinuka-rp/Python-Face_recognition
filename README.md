@@ -27,9 +27,15 @@ I found myself wasting many hours trying to find a solution to get dlib to insta
 You're good to go now!<br/>
 You can even delete the Microsoft Build tools applications hereafter.<br/>
 
-*The dlib library only worked with Python when this method was followed.*<br/><br/>
+*The dlib library worked only with Python when this method was followed.*<br/><br/>
 
 
 If you want to get the face_recognition library to work with C or C++, try to do so after installing MS Visual Studio.
 
 Checkout ageitgrey's installation guide, to get this face_recognition library working on other platforms [here](https://github.com/ageitgey/face_recognition#installation)
+
+---
+
+[What is the difference between venv, pyvenv, pyenv, virtualenv, virtualenvwrapper, pipenv, etc?](https://stackoverflow.com/questions/41573587/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrappe)
+
+[dlib vs opencv which one to use when](https://stackoverflow.com/questions/37215036/dlib-vs-opencv-which-one-to-use-when)
