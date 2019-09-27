@@ -25,9 +25,9 @@ I found myself wasting many hours trying to find a solution to get dlib to insta
 5. Run "pip install face_recognition" in the terminal<br/><br/>
 
 You're good to go now!<br/>
-You can even delete the Microsoft Build tools applications hereafter.<br/><br/>
+You can even delete the Microsoft Build tools applications hereafter.<br/>
 
-*The dlib library only worked with Python when this method was followed.*<br/>
+*The dlib library only worked with Python when this method was followed.*<br/><br/>
 
 
 If you want to get the face_recognition library to work with C or C++, try to do so after installing MS Visual Studio.
