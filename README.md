@@ -4,12 +4,13 @@ This repository contains Python code that is capable of various face recognition
 This is my starting point in implementing Machine Learning algorithms for software solutions.
 
 ---
+
+You can watch Traversy media's YouTube video that helped me get a kick start on facial recognition using machine learning [here](https://www.youtube.com/watch?v=QSTnwsZj2yc)
+
 ## Helpful GitHub repos to learn how to implement facial recognition using Python
 
 [ageitgrey's face_recognition repo](https://github.com/ageitgey/face_recognition)<br/>
 [Traversy media's face_recognition repo](https://github.com/bradtraversy/face_recognition_examples)
-
-You can watch Traversy media's YouTube video that helped me get a kick start on facial recognition using machine learning [here](https://www.youtube.com/watch?v=QSTnwsZj2yc)
 
 ---
 
