@@ -27,8 +27,9 @@ I found myself wasting many hours trying to find a solution to get dlib to insta
 You're good to go now!<br/>
 You can even delete the Microsoft Build tools applications hereafter.<br/><br/>
 
+*The dlib library only worked with Python when this method was followed.*<br/>
+
+
 If you want to get the face_recognition library to work with C or C++, try to do so after installing MS Visual Studio.
 
 Checkout ageitgrey's installation guide, to get this face_recognition library working on other platforms [here](https://github.com/ageitgey/face_recognition#installation)
-
-*The dlib library only worked with Python when this method was followed.*<br/>
